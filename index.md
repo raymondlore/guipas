@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of GUIPAS
 
-You can use the [editor on GitHub](https://github.com/raymondlore/guipas/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/raymondlore/guipas/edit/master/index.md)
+
+KOPAS : KOrea ** Project Arrangement System 을 사용한 적이 있습니다.
+이름이 특이하여 기억에 오래 남았는데 회사는 없어졌습니다.
+재미삼아 대응되는 System 으로 GUIPAS 를 기획하였습니다.
+
+Geographical User Initiative Project Arrangement System 으로 명명하였습니다.
+이름만 있고 아무것도 없는 현실;;;;
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
